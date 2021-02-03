@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey I'm Ryan!
+![enter image description here](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-<!--
-**ryanflynndev/ryanflynndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Ryan a passionate Full-Stack Engineer with a background in finance, digital marketing and product development. Here you can find all the awesome projects I've made, and all the stuff I have been working hard on. I'm currently looking for a role as an engineer, so if you know of any openings let me know!
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - React
+ - JavaScript
+ - React Native
+ - Redux
+ - Ruby 
+ - Ruby on Rails
+ - Python
+ - HTML5
+ - CSS
+ - SQLite
+ - PostgreSQL
+ - openpyxl
+
+## Contact Me
+
+:link: Linkedin: https://www.linkedin.com/in/ryanflynnofficial/
