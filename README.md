@@ -14,6 +14,7 @@ Hi there! I'm Ryan a passionate Full-Stack Engineer with a background in finance
  - Python
  - HTML5
  - CSS
+ - TypeScript
  - SQLite
  - PostgreSQL
  - openpyxl
