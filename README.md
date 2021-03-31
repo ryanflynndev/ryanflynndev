@@ -21,6 +21,3 @@ Hi there! I'm Ryan a passionate Full-Stack Engineer with a background in finance
  - PostgreSQL
  - openpyxl
 
-## Contact Me
-
-:link: Linkedin: https://www.linkedin.com/in/ryanflynnofficial/
