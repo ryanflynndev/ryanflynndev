@@ -35,7 +35,7 @@ Hi there! I'm Ryan a passionate Full-Stack Engineer with a background in finance
 
 # My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanflynndev&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanflynndev&include_all_commits=true&theme=dracula)
 
 # Socials
 
