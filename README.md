@@ -33,10 +33,6 @@ Hi there! I'm Ryan a passionate Full-Stack Engineer with a background in finance
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanflynndev&include_all_commits=true&theme=dracula&show_icons=true&hide=stars,issues)
-
 # Socials
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanflynnofficial/)
